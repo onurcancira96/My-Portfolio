@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# My Portfolio Website in HTML CSS JavaScript & React.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/onurcancira96/My-Portfolio/assets/114770570/bc513a85-a88b-4b69-a825-73db47924f6d)
 
-## Available Scripts
+Bu proje, HTML, CSS JavaScript ve React.js kullanarak oluşturduğum Portfolio websitemdir.
 
-In the project directory, you can run:
+## Proje URL
 
-### `npm start`
+https://onurcancira96.github.io/My-Portfolio/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Ekran Görüntüsü
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Fotoram io](https://github.com/onurcancira96/My-Portfolio/assets/114770570/598cd046-cedd-4d29-82da-4b8dcd7a1d41)
 
-### `npm test`
+## Özellikler
+Bu proje aşağıdaki bazı özellikleri barındırmaktadır:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Hakkımda Sayfası: Kendim hakkında bilgi sunan bir sayfa.
+2. Projelerim Sayfası: Kişisel projelerimi sergilediğim bir sayfa.
+3. İletişim Sayfası: Bana ulaşabileceğiniz iletişim bilgilerinin bulunduğu bir sayfa.
+4. Duyarlı Tasarım: Web sitesi mobil cihazlara ve farklı ekran boyutlarına uygun olarak tasarlanmıştır.
+5. Görsel Ögeler: Sayfalarda kullanılan görseller ile içerik daha çekici hale getirilmiştir.
+6. Bootstrap Kullanımı: Bootstrap CSS ve bileşenleri projede aktif olarak kullanılmıştır.
 
-### `npm run build`
+## Teknolojiler
+Bu proje aşağıdaki teknolojileri kullanmaktadır:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. HTML
+2. CSS
+3. JavaScript
+4. Swiper: Sürüklenen kartlar için kullanılan bir carousel (kaydırıcı) kütüphanesi
+5. React.js
+6. Formik
+7. Raeact Router
+8. Yup Validation
+9. Box icon
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## İletişim
+Eğer herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa, lütfen bana onurcan.cira96@gmail.com adresinden ulaşın veya GitHub üzerinden bir konu açın.
