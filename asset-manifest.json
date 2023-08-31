@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.564bf6dc.css",
+    "main.js": "/My-Portfolio/static/js/main.0e0347e9.js",
+    "static/js/787.3993fb25.chunk.js": "/My-Portfolio/static/js/787.3993fb25.chunk.js",
+    "static/media/3.png": "/My-Portfolio/static/media/3.9c11409ecdcb9d469c91.png",
+    "static/media/2.png": "/My-Portfolio/static/media/2.c737887c831bebe41608.png",
+    "static/media/1.png": "/My-Portfolio/static/media/1.e22e3d8a639ab796e4c8.png",
+    "static/media/10.png": "/My-Portfolio/static/media/10.1ac85a45351b40e583b6.png",
+    "static/media/5.png": "/My-Portfolio/static/media/5.16b3b42211a598a1cbb1.png",
+    "static/media/OnurcanCiraCV.pdf": "/My-Portfolio/static/media/OnurcanCiraCV.e95dbaf0f42daa6a038d.pdf",
+    "static/media/4.png": "/My-Portfolio/static/media/4.20c6fe059eb9af0f5ed7.png",
+    "static/media/6.png": "/My-Portfolio/static/media/6.08ff07a84f9e91b6a08b.png",
+    "static/media/7.png": "/My-Portfolio/static/media/7.3b055e02192f3284f963.png",
+    "static/media/8.png": "/My-Portfolio/static/media/8.2ad000b28440df0af1cd.png",
+    "static/media/9.png": "/My-Portfolio/static/media/9.c05ab3fac6711ef76d0b.png",
+    "index.html": "/My-Portfolio/index.html",
+    "main.564bf6dc.css.map": "/My-Portfolio/static/css/main.564bf6dc.css.map",
+    "main.0e0347e9.js.map": "/My-Portfolio/static/js/main.0e0347e9.js.map",
+    "787.3993fb25.chunk.js.map": "/My-Portfolio/static/js/787.3993fb25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.564bf6dc.css",
+    "static/js/main.0e0347e9.js"
+  ]
+}
