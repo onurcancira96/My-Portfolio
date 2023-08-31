@@ -10,7 +10,7 @@ https://onurcancira96.github.io/My-Portfolio/
 
 ## Ekran Görüntüsü
 
-![BeFunky-collage](https://github.com/onurcancira96/My-Portfolio/assets/114770570/e541f02a-c08f-468d-ad95-37f99b11b8a0)
+![BeFunky-collage (Küçük)](https://github.com/onurcancira96/My-Portfolio/assets/114770570/e22acfcd-c680-4a94-8e01-4720e0303ac4)
 
 ## Özellikler
 Bu proje aşağıdaki bazı özellikleri barındırmaktadır:
